@@ -4,14 +4,14 @@
 
 Added Some screens here.
 
-![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_1.png)
-![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_2.png)
-![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_3.png)
-![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_4.png)
-![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_5.png)
-![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_6.png)
-![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_7.png)
-![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_8.png)
+![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_1.PNG)
+![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_2.PNG)
+![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_3.PNG)
+![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_4.PNG)
+![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_5.PNG)
+![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_6.PNG)
+![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_7.PNG)
+![](https://github.com/pawankv89/Biometrics-Face-ID-or-Touch-ID/blob/master/images/screen_8.PNG)
 
 ## Usage
 
